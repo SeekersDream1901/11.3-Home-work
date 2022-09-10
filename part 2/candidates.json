@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://i.pinimg.com/originals/0b/94/13/0b94137b40a27c16c785f20688a9ac33.jpg",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "http://pm1.narvii.com/8023/7a060518d99bdcef170bb3a54c2f599505478c8ar1-1892-1892v2_uhq.jpg",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture": "https://i.pinimg.com/736x/fb/c0/75/fbc075d3149c29ebbd62c571fcc04eea.jpg",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://pristor.ru/wp-content/uploads/2019/01/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%84%D0%BE%D1%82%D0%BE-%D0%A1%D0%BA%D0%BE%D1%82%D1%82%D0%B0-%D0%AD%D0%B4%D0%BA%D0%B8%D0%BD%D1%81%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-20-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%BA-2.jpeg",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://krot.info/uploads/posts/2019-10/1570815258_instagram-dzhosh-holloujej-43.jpg",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "id": 6,
+    "name": "Austin Cochran",
+    "picture": "https://i.pinimg.com/736x/f4/d3/e5/f4d3e51f955a904149686dac126a6f4d.jpg",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "id": 7,
+    "name": "Sheree Love",
+    "picture": "https://i.pinimg.com/originals/7f/b7/1d/7fb71d7ac108ddd759c57a6c38d0f74c.jpg",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  }
+]
